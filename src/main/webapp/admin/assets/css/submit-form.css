@@ -1,0 +1,35 @@
+.btn-submit {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+.btn-xam {
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+  margin: 0 0 0 15px;
+  background-color: rgb(75, 75, 75);
+}
+.btn-xanh {
+  background-color: rgb(0, 167, 69);
+  padding: 10px;
+  color: white;
+  border-radius: 5px;
+  margin: 0 0 0 15px;
+}
+.btn-xanh:hover {
+  background-color: white;
+  color: rgb(0, 167, 69);
+}
+.btn-xam:hover {
+  background-color: white;
+  color: rgb(75, 75, 75);
+}
+
+.thumbnail{
+	max-width: 500px;
+}
+.thumbnail img{
+		border-radius: 5px;
+
+}

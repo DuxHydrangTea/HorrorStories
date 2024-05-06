@@ -1,0 +1,25 @@
+.listPage li{
+    margin: 0 10px;
+}
+.listPage li:hover{
+    cursor: pointer;
+}
+.active{
+    background-color: #7e3af2;
+    color:  #fff;
+    padding: 10px;
+    border-radius: 3px;
+}
+.link-back-home{
+	max-width: 200px;
+	padding: 15px;
+	border-radius: 10px;
+	background-color: #7e3af2;
+	color: #fff;
+	margin-top: 20px;
+}
+.link-back-home:hover{
+	color: #7e3af2;
+	background-color: #fff;
+	border: solid 1px #7e3af2;	
+}

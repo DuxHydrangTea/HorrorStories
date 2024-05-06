@@ -1,0 +1,35 @@
+.title-category{
+    max-width: 980px;
+    background-color: var(--color-blue);
+    padding: 10px 10px 10px 10px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.title-category h2 {
+    margin: 0;
+    text-transform: uppercase;
+}
+.title-category a{
+    margin: 0;
+    color: #048c8c;
+}
+.title-category a:hover{
+    color: white;
+}
+.img-max-w{
+    max-width: 950px;
+}
+.abtract-story{
+    font-size: 0.9rem;
+    font-style: italic;
+}
+.post-content p{
+    color: black;
+}
+.img-custom{
+	max-width: 440px;
+	max-height: 275px;
+	object-fit: cover;
+}

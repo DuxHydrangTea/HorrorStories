@@ -1,0 +1,42 @@
+.list-save-seri{
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
+.list-save-item{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	background-color: #F1F1F1;
+	padding: 10px;
+	border-radius: 4px;
+}
+.item-img{
+	
+}
+
+.item-img img{
+	width: 200px;
+	height: 100px;
+	object-fit: cover;
+	border-radius: 4px;
+
+}
+.item-link{
+	display: flex;
+	gap: 10px;
+}
+.item-save{
+	display: flex;
+	align-items: center;
+}
+.item-save i{
+		color: var(--color-blue);
+
+}
+.item-des-title{
+	color:black;
+}
+.item-save{
+	width: 50px;
+}
